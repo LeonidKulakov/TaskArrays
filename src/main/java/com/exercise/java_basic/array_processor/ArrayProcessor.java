@@ -29,7 +29,6 @@ public class ArrayProcessor {
         multiplyByThreeEachPositiveElementStandingBeforeNegative(input);
         calculateDifferenceBetweenAverageAndMinElement(input);
         findSameElementsStandingOnOddPositions(input);
-
     }
 
 
